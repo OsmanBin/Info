@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Osman 👋<br><br>I'm an Electrical & Communication Engineer (B.Eng, International Islamic University Malaysia) currently working as a Systems Operator in Melbourne, Australia, and transitioning into IT Support, Cybersecurity, and Telecommunications Engineering.<br><br>My background spans telecom systems, operations analysis, and hardware engineering (wireless power transfer, solar charge controllers) — and I'm now building on that foundation with CompTIA A+ certification and hands-on networking/security projects.<br><br><br>🔭 Currently working on: CompTIA A+ (Core 2), home lab & scripting projects<br>🌱 Learning: networking fundamentals, security tooling, automation with Python<br>💼 Background: telecommunications engineering, systems operations, logistics<br>🎯 Goal: roles in IT support, cybersecurity, or electrical/telecom engineering<br>📍 Based in Melbourne, Australia<br>🛠️ Tools: Python, MATLAB, AutoCAD, PSpice<br><br><br>Feel free to explore my repos below — they cover engineering projects, study notes, and security-focused builds.
+Hi, I'm Osman 👋<br><br>I'm an Electrical & Communication Engineer (B.Eng, International Islamic University Malaysia) currently working as a Systems Operator in Melbourne, Australia, and transitioning into IT Support, Cybersecurity, and Telecommunications Engineering.<br><br>My background spans telecom systems, operations analysis, and hardware engineering (wireless power transfer, solar charge controllers) — and I'm now building on that foundation with CompTIA A+ certification and hands-on networking/security projects.<br><br><br>🔭 Currently working on: CompTIA A+ (Core 2), home lab & scripting projects<br>🌱 Learning: networking fundamentals, security tooling, automation with Python<br>💼 Background: telecommunications engineering<br>🎯 Goal: roles in IT support, cybersecurity, or electrical/telecom engineering<br>📍 Based in Melbourne, Australia<br>🛠️ Tools: Python, MATLAB, AutoCAD, PSpice<br><br><br>Feel free to explore my repos below — they cover engineering projects, study notes, and security-focused builds.
 
 
 ## 🌐 Socials:
@@ -19,4 +19,4 @@ Hi, I'm Osman 👋<br><br>I'm an Electrical & Communication Engineer (B.Eng, Int
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/OsmanBinAtique20) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
